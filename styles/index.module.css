@@ -1,0 +1,15 @@
+.main {
+  font: 100% times new roman;
+  color: #333;
+  padding: 1em;
+  flex: 1;
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  font: 100% times new roman;
+}
+
+/*# sourceMappingURL=index.module.css.map */
