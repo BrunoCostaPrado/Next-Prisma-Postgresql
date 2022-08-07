@@ -12,4 +12,11 @@
   font: 100% times new roman;
 }
 
+.text {
+  font: 100% times new roman;
+  color: #red;
+  flex: 1;
+  padding: 1em;
+}
+
 /*# sourceMappingURL=index.module.css.map */
